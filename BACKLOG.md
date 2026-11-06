@@ -3,6 +3,7 @@
 ## Pendientes
 
 - [ ] Al actualizar el CV: reemplazar `Carlos_Cardenas_CV_2026.pdf`, regenerar `page-*.png` (PyMuPDF, matrix 2.2x) y push.
+- [x] 6-nov-2026: agregada sección RECENT COURSES (Platzi Kubernetes, Docker Avanzado, Java SE Avanzado) en pág. 2 con pymupdf + subset_fonts.
 - [ ] Opcional: dominio propio (cv.cardenas.pe) vía CNAME si se quiere URL corta.
 
 ## Decisiones tomadas
